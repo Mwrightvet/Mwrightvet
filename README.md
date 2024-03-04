@@ -1,4 +1,4 @@
-# Hi, I'm Mel   👩🏾‍💻
+# Hi   👩🏾‍💻
 
 ![Banner](https://github.com/Mwrightvet/Mwrightvet/blob/main/Githureadme.png?raw=true)
 
