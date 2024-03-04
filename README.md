@@ -1,6 +1,6 @@
 # Hi, I'm Mel   👩🏾‍💻
 
-![banner that describes me]([Githureadme.png](Githureadme.png))
+![banner that describes me]([https://github.com/Mwrightvet/Mwrightvet/blob/main/Githureadme.png](https://github.com/Mwrightvet/Mwrightvet/blob/main/Githureadme.png))
 
 Technical Product Owner with experience as a Front End Software Developer. Experience with the Software Development Life Cycle (SDLC), research, and stakeholder engagements for customer success. Guiding customers to derive maximum value from our product is not just a goal but a passion. I act as a reliable bridge between our customers and the company, providing unwavering support, tailored guidance, and effective solutions to enhance their overall experience. Personally enjoy creative problem solving and staying current in software development tools and application.
 
